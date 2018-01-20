@@ -1,3 +1,7 @@
-this is readme sample file
-to delte
-good line
+## README FILE
+
+This file will present the idea of the gitreal repo
+
+### purpuse 
+
+To edecute how use git and gitHub repos 
