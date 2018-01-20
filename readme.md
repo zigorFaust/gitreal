@@ -1,11 +1,15 @@
 # README FILE
 
-This file will present the idea of the gitreal repo
+This file will present the idea of the GitReal repos
 
-## purpuse 
+## purpose 
 
-To edecute how use git and gitHub repos 
+To study how use git and gitHub repos 
 
 ## Methods
 
 By following videos from different consults
+
+## Currently
+
+We watching the GitReal videos
