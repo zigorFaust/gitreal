@@ -14,6 +14,10 @@ By following videos from different consults
 
 We watching the GitReal videos
 
+## FYI
+
+Rebase it's al lies
+
 ### To DO
 
 Write all important info inside GitReal notes
