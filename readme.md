@@ -13,3 +13,8 @@ By following videos from different consults
 ## Currently
 
 We watching the GitReal videos
+
+### To DO
+
+Write all important info inside GitReal notes
+
