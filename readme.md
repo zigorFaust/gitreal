@@ -16,7 +16,7 @@ We watching the GitReal videos
 
 ## FYI
 
-Rebase it's al lies
+Rebase is all True!
 
 ### To DO
 
